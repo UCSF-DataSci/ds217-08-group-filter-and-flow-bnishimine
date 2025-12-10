@@ -1,0 +1,5 @@
+facility_type,North,South,West,All
+Hospital,44,306,209,559
+Specialty Center,196,882,774,1852
+Urgent Care,270,1317,1002,2589
+All,510,2505,1985,5000

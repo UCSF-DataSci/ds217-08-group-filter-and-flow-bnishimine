@@ -1,0 +1,14 @@
+                                  mean        std  min   max  range
+facility_name                                                      
+Cardiology Specialty Center  18.684000  11.242105  2.0  37.0   35.0
+City General Hospital        24.024952  10.899424  2.0  39.0   37.0
+Community Health Clinic      17.547619   9.936053  1.0  38.0   37.0
+Emergency Medical Center     21.568035  10.914822  2.0  39.0   37.0
+Northside Urgent Care        20.106178  11.536601  1.0  39.0   38.0
+Oncology Treatment Center    21.457961   9.387397  2.0  39.0   37.0
+Pediatric Care Center        19.845433  11.015546  1.0  39.0   38.0
+Primary Care Clinic          20.000000  11.978651  1.0  39.0   38.0
+Regional Medical Center      18.614118   9.198635  3.0  38.0   35.0
+Surgical Specialty Center    17.573557  11.779484  1.0  39.0   38.0Empty DataFrame
+Columns: [index]
+Index: []
